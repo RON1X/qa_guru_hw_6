@@ -32,8 +32,8 @@ public class Main {
         System.out.println("Переполнение: " + (short)(aShort + 1));
         System.out.println("\n");
 
-        System.out.println("aTrue && !aFalse = " + (isTrue && !isFalse));
-        System.out.println("aTrue || aFalse = " + (isTrue || isFalse));
+        System.out.println("isTrue && !isFalse = " + (isTrue && !isFalse));
+        System.out.println("isTrue || isFalse = " + (isTrue || isFalse));
         System.out.println("aFloat < aDouble = " + (aFloat < aDouble));
         System.out.println("\n");
 
